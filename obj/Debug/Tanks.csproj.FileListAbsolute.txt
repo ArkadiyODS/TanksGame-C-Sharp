@@ -1,0 +1,24 @@
+c:\users\julia\documents\visual studio 2013\Projects\Tanks\Tanks\bin\Debug\Tanks.exe.config
+c:\users\julia\documents\visual studio 2013\Projects\Tanks\Tanks\bin\Debug\Tanks.exe
+c:\users\julia\documents\visual studio 2013\Projects\Tanks\Tanks\bin\Debug\Tanks.pdb
+c:\users\julia\documents\visual studio 2013\Projects\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+c:\users\julia\documents\visual studio 2013\Projects\Tanks\Tanks\obj\Debug\Tanks.exe
+c:\users\julia\documents\visual studio 2013\Projects\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\aandrienko\Desktop\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\aandrienko\Desktop\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\aandrienko\Desktop\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\aandrienko\Desktop\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\aandrienko\Desktop\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\Users\aandrienko\Desktop\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\Julia\Desktop\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\Julia\Desktop\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\Julia\Desktop\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\Julia\Desktop\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\Users\Julia\Desktop\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\aandrienko\Desktop\Tanks-2015-01-18\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\aandrienko\Desktop\Tanks-2015-01-18\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\aandrienko\Desktop\Tanks-2015-01-18\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\aandrienko\Desktop\Tanks-2015-01-18\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\aandrienko\Desktop\Tanks-2015-01-18\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\aandrienko\Desktop\Tanks-2015-01-18\Tanks\Tanks\bin\Debug\Tanks.pdb
